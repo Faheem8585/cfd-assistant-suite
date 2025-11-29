@@ -1,0 +1,16 @@
+beautifulsoup4
+chromadb
+langchain
+langchain-chroma
+langchain-community
+langchain-google-genai
+langchain-huggingface
+pdf2image
+pillow
+pypdf
+pytesseract
+python-docx
+python-dotenv
+sentence-transformers
+streamlit
+tiktoken
