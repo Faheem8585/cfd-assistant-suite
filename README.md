@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is my personal project designed to bridge the gap between complex Computational Fluid Dynamics (CFD) theory and practical OpenFOAM implementation. As a CFD engineer, I often found myself switching between textbooks for theory and documentation for syntax. I built this unified assistant to have both at my fingertips.
+This is my personal project designed to bridge the gap between complex Computational Fluid Dynamics (CFD) theory and practical OpenFOAM implementation. As a AI engineer, I often found myself switching between textbooks for theory and documentation for syntax. I built this unified assistant to have both at my fingertips.
 
 The suite combines two specialized assistants into a single interface:
 1.  **CFD GPT**: Focuses on the physics, mathematics, and fundamental theory of fluid dynamics.
